@@ -19,7 +19,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/navil__" target="blank"><img src="https://img.shields.io/twitter/follow/navil__?logo=twitter&style=for-the-badge" alt="navil__" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/navil04" target="blank"><img src="https://img.shields.io/twitter/follow/navil__?logo=twitter&style=for-the-badge" alt="navil__" /></a> </p>
 
 
 
